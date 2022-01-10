@@ -28,3 +28,6 @@ Follow the following steps to run the file in jupyter notebook.
 
 9. Now run individually or at once but make sure that ETL and EDA cell are activated.
   
+
+  
+#Steps to solve both the task.
