@@ -59,10 +59,12 @@ Steps to solve :
     2. To answer 2.1, call the function 'top_buying_countries' with start and end date between which you want see the sales.
             eda.top_buying_countries(start_date,end_date,top_n)
             
-       Note : This gives us the top buying coutry and nice beautifull plot to visualize the the distribution. top_n is optional               attributes and could be changed as per the user. 
+       Note : This gives us the top buying coutry and nice beautifull plot to visualize the the distribution. top_n is optional
+              attributes and could be changed as per the user. 
        
             
-    3. To answer 2.2 call the function 'best_seeling_year', this shows the output as bar plot top selling year arranged in            descnding order.
+    3. To answer 2.2 call the function 'best_seeling_year', this shows the output as bar plot top selling year arranged in
+       descnding order.
             eda.best_selling_year()
     
     4. To answer 2.3 the FIN for the very first sold vehicle, call the 'get_fin_for_first_truch_sold' function that's it.
