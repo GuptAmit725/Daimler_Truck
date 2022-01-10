@@ -22,7 +22,7 @@ Follow the following steps to run the file in jupyter notebook.
 
 6. Go to github repo directory you cloned
 
-7. Open the <b>daimler_internship.ipynb</b> file
+7. Open the <b>Daimler_Internship.ipynb</b> file
 
 8. Run/uncomment the command <b>!pip install -r requirements.txt</b>
 
